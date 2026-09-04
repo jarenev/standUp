@@ -155,7 +155,7 @@ export default function ProfilePage() {
           <section className="panel p-5">
             <div className="eyebrow">персональный купон</div>
             <h2 className="display mt-1 text-xl">Промокод</h2>
-            <p className="mt-1 text-xs text-slate-400">Введите код, выданный администрацией StandUp.</p>
+            <p className="mt-1 text-xs text-slate-400">ВАШ ПРОМОКОД НА КЕШБЕК - CASH.</p>
             <div className="mt-3 flex gap-2">
               <input
                 className="input uppercase tracking-widest"

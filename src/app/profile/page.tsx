@@ -159,7 +159,7 @@ export default function ProfilePage() {
             <div className="mt-3 flex gap-2">
               <input
                 className="input uppercase tracking-widest"
-                placeholder="STANDUP50"
+                placeholder="GGS22"
                 value={promo}
                 onChange={(e) => setPromo(e.target.value.toUpperCase())}
                 onKeyDown={(e) => e.key === "Enter" && redeem()}
